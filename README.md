@@ -57,4 +57,8 @@ This project demonstrates how to interface a **NEO-7M GPS module** with a **PIC1
 
 - `main.c` – Source code for PIC (MPLAB XC8 or MikroC)
 - `README.md` – Project overview and instructions
+![WhatsApp Image 2025-10-17 at 12 51 15 PM](https://github.com/user-attachments/assets/b696c2dd-d134-49b3-8391-8c20e705b6ab)
+![WhatsApp Image 2025-10-17 at 12 51 17 PM](https://github.com/user-attachments/assets/17a5bd78-280f-4b07-a03b-b6ebebc36846)
+<img width="1240" height="863" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/cd3afd5f-8c90-414d-b69c-99f270f80938" />
+
 
