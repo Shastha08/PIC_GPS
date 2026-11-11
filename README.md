@@ -40,10 +40,10 @@ This project demonstrates how to interface a **NEO-7M GPS module** with a **PIC1
 
 ## 📄 Sample Output on LCD
 
-```
+``
 1234.5678 LAT
 0987.6543 LON
-```
+``
 
 ## 🛠️ How to Use
 
